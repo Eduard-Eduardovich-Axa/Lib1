@@ -4,6 +4,10 @@ using System.Drawing;
 
 
 //class1
+//class2
+//class1
+//class2
+//KurvaZaebal
 namespace Lib1
 {
     public class CustomTextBox : TextBox
