@@ -3,7 +3,7 @@ using System.Windows.Forms;
 using System.Drawing;
 
 
-
+//class1
 namespace Lib1
 {
     public class CustomTextBox : TextBox
