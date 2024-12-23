@@ -5,6 +5,8 @@ using System.Drawing;
 
 //class1
 //class2
+//class1
+//class2
 namespace Lib1
 {
     public class CustomTextBox : TextBox
